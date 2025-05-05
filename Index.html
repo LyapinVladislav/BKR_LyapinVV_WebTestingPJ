@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Web Testing API</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            margin: 0;
+        }
+
+        .container {
+            text-align: center;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        input[type="text"] {
+            width: 300px;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            padding: 10px 15px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+            button:hover {
+                background-color: #45a049;
+            }
+
+        #result-container {
+            margin-top: 20px;
+            text-align: left;
+        }
+
+        .result {
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .error {
+            color: red;
+        }
+    </style>
+    <script>
+        async function analyze() {
+            const url = document.getElementById("url").value;
+            const requestType = document.querySelector('input[name="request_type"]:checked').value;
+
+            const resultContainer = document.getElementById("result-container");
+
+            if (!url) {
+                resultContainer.innerHTML += '<div class="error">Введите корректный URL.</div>';
+                return;
+            }
+
+            try {
+                const response = await fetch("http://127.0.0.1:8000/analyze/", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ url, request_type: requestType }),
+                });
+
+                const data = await response.json();
+                if (response.ok) {
+                    const resultHtml = `
+                                <div class="result">
+                                    <strong>Сайт:</strong> ${data.url}<br>
+                                    ${data.type === "loading" ? `
+                                        <strong>Скорость загрузки:</strong> ${data.loading_time} сек.<br>
+                                    ` : `
+                                        <strong>Коэффициент конверсии:</strong> ${data.conversion_rate}<br>
+                                    `}
+                                    <strong>Рекомендация:</strong> ${data.recommendation}
+                                </div>
+                            `;
+                    resultContainer.innerHTML += resultHtml;
+                } else {
+                    throw new Error(data.detail || "Неизвестная ошибка.");
+                }
+            } catch (err) {
+                resultContainer.innerHTML += `<div class="error">Ошибка: ${err.message}</div>`;
+            }
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Тестирование веб-сайтов</h1>
+        <input type="text" id="url" placeholder="http://example.com">
+        <div>
+            <label><input type="radio" name="request_type" value="loading" checked> Время загрузки</label>
+            <label><input type="radio" name="request_type" value="conversion"> Коэффициент конверсии</label>
+        </div>
+        <button onclick="analyze()">Тестировать</button>
+        <div id="result-container"></div>
+    </div>
+</body>
+</html>

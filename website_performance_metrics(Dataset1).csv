@@ -1,0 +1,735 @@
+Sr No,website_url,Category,Page Size (KB),Load Time(s),Response Time(s),Throughput,Performance_Label,User Response
+0,https://www.booking.com/index.html?aid=1743217,Travel,3400.0,4.19,0.523,622.58,medium,Medium
+1,https://travelsites.com/expedia/,Travel,1331.2,1.04,0.35,20.0,fast,Fast
+2,https://travelsites.com/tripadvisor/,Travel,1945.6,0.833,0.392,331.29,fast,Medium
+3,https://www.momondo.in/?ispredir=true,Travel,13926.4,0.049,0.297,1.21,fast,Fast
+4,https://www.ebookers.com/?AFFCID=EBOOKERS-UK.network.affiliatewindow.85386&awc=7904_1606029543_518c2af76500871f76cadec26f8eb055,Travel,4300.8,0.751,1.211,61.45,slow,Medium
+5,https://book.priceline.com/?refid=8431&refclickid=d196c1c3cad4c6e474196ac6815f9652,Travel,809676.8,1.07,0.284,16.64,slow,Fast
+6,https://www.trip.com/index?locale=en_us&allianceid=21934&SID=455408&ouid=198c18a52c8911eb811b00ce0a18050d,Travel,1945.6,2.37,0.799,155.67,medium,Medium
+7,https://www.orbitz.com/,Travel,48025.6,1.0,2.099,54.79,slow,Medium
+8,https://www.travelocity.com/,Travel,0.0,0.0,1.22,97.47,slow,Fast
+9,https://www.hotwire.com/,Travel,2764.8,4.46,0.379,773.87,fast,Medium
+10,https://www.otel.com/,Travel,384204.8,0.531,1.135,88.36,slow,Medium
+11,https://www.ebookers.com/?AFFCID=EBOOKERS-UK.network.affiliatewindow.85386&awc=7904_1606041576_a3c281bcb3eae0af35b22b076d1074ae,Travel,455680.0,0.495,0.495,87.16,slow,Medium
+12,https://www.airbnb.co.in/?locale=en&_set_bev_on_new_domain=1606041642_YjI0OGQ3OWI5MDI2,Travel,1331.2,0.705,0.533,922.58,medium,Fast
+13,https://in.lastminute.com/,Travel,1024.0,0.348,1.941,62.89,slow,Medium
+14,https://www.onthebeach.co.uk/?Adnetwork=aw&afid=85386&mv_pc=AW&awc=3655_1606041657_3771582e5a1d8da6c1b3321d83f9f0c4&utm_source=AWIN&utm_medium=affiliates&utm_campaign=85386,Travel,102809.6,0.612,0.846,996.06,medium,Medium
+15,https://www.kayak.co.in/?ispredir=true,Travel,2457.6,0.725,2.146,118.69,slow,Medium
+16,https://www.marriott.com/default.mi?aff=MARWW&affname=10l1110&co=WW&nt=PH,Travel,0.0,0.0,1.025,92.05,slow,Fast
+17,https://www.costcotravel.com/,Travel,2867.2,2.24,0.998,38.44,medium,Fast
+18,https://hoteltravelclub.com/,Travel,2867.2,3.87,0.918,131.83,medium,Medium
+19,https://www.wyndhamhotels.com/en-uk/ramada,Travel,2355.2,4.5,0.448,239.67,fast,Fast
+20,https://westin.marriott.com/,Travel,4812.8,1.46,0.315,284.6,fast,Medium
+21,https://www.capellahotels.com/en/capella-ubud,Travel,15974.4,0.122,0.349,309.52,fast,Slow
+22,https://fogoislandinn.ca/,Travel,4300.8,1.04,0.587,161.02,medium,Slow
+23,https://www.ritzcarlton.com/en/hotels/indonesia/bali#Hotel,Travel,13107.2,6.5,1.383,29.38,slow,Slow
+24,https://secretbay.dm/,Travel,11571.2,2.08,0.094,63.23,fast,Slow
+25,https://www.sunsetkeycottages.com/,Travel,18739.2,1.82,0.702,40.38,medium,Slow
+26,https://www.pueblobonito.com/resorts/emerald-bay,Travel,4505.6,2.37,0.598,92.26,medium,Slow
+27,https://nihi.com/,Travel,5734.4,1.43,0.414,106.2,fast,Slow
+28,https://www.viceroyhotelsandresorts.com/los-cabos,Travel,0.0,0.0,0.267,71.51,fast,Slow
+29,https://www.mandarinoriental.com/munich/altstadt/luxury-hotel,Travel,2560.0,2.1,4.317,18.36,slow,Slow
+30,https://northblockhotel.com/,Travel,177152.0,0.5,1.292,125.17,slow,Slow
+31,https://www.milestonehotel.com/?cjevent=4ec1f2f92cc511eb834e01140a180510,Travel,20275.2,4.21,2.079,23.02,slow,Slow
+32,https://www.rockhouse.com/,Social Networking and Messaging,2764.8,0.884,0.347,214.51,fast,Slow
+33,https://www.affordabletours.com/,Travel,2048.0,0.747,0.875,61.07,medium,Slow
+34,https://www.totallyspain.com/,Travel,5734.4,1.65,1.775,118.44,slow,Slow
+35,https://dreamworldtravel.co.uk/,Travel,1024.0,0.0,0.989,149.89,medium,Slow
+36,https://www.nepalspiritualtrekking.com/,Travel,0.0,0.0,0.405,233.91,fast,Slow
+37,https://www.aandftour.com//,News,85401.6,0.196,0.275,58.32,medium,Slow
+38,https://inkaexperience.com/,Travel,3379.2,4.44,3.062,29.39,slow,Slow
+39,http://www.peru-travels.com/,Travel,4198.4,1.83,1.133,171.95,slow,Slow
+40,https://www.shiptoshoretravelltd.com/,Travel,0.0,0.0,0.867,73.1,medium,Slow
+41,https://www.hnltravel.com/index.html,Travel,1006080.0,1.07,1.003,1.14,slow,Slow
+42,https://islanddreamsworldtravel.com/,Travel,3174.4,2.89,0.467,174.41,fast,Slow
+43,http://www.okeanostravel.com/,Travel,2355.2,3.47,0.4,199.97,fast,Slow
+44,https://www.discovermongolia.mn/,Travel,2662.4,2.0,0.555,127.44,medium,Slow
+45,https://www.turansa.com/,Travel,814182.4,0.51,0.691,88.57,slow,Slow
+46,https://albatros-travel.com/,Travel,1126.4,0.5,1.242,250.15,slow,Slow
+47,http://www.kenyadreamholidays.com/,Travel,2457.6,0.32,3.582,132.76,slow,Slow
+48,https://fts-travels.com/,Travel,3072.0,3.39,1.638,35.01,slow,Slow
+49,http://www.aimadventures.com/,Travel,442163.2,1.41,0.418,393.97,slow,Slow
+50,https://www.nbitravel.com/,Travel,18636.8,0.488,0.476,924.33,fast,Slow
+51,http://www.justcruisinplus.com/,Travel,2252.8,4.82,0.442,299.5,fast,Slow
+52,https://www.dwwatsontravel.com/,Travel,4608.0,2.4,0.921,151.88,medium,Slow
+53,http://essentialdownunder.com/,Travel,3276.8,1.88,0.268,2201.34,fast,Slow
+54,https://www.phuket-trips.com/,Travel,0.0,0.0,0.263,3.56,fast,Slow
+55,http://www.golfholidaysintl.com/,Travel,2969.6,2.45,5.439,15.41,slow,Slow
+56,http://www.zentravel.gr/,Travel,5222.4,3.53,5.524,57.8,slow,Slow
+57,https://circuitosturquia.com/,Travel,0.0,0.0,1.698,63.33,slow,Slow
+58,http://www.jjbtravel.com/,Travel,2764.8,3.61,0.65,190.16,medium,Slow
+59,https://www.ethiousatour.com/,Travel,158822.4,4.5,0.806,885.13,slow,Slow
+60,https://agavetravelcreative.com/,Travel,948121.6,0.7,1.46,59.84,slow,Slow
+61,https://www.oberoihotels.com/hotels-in-jaipur-rajvilas-resort/?utm_source=affred&utm_medium=aff&utm_campaign=gbl-affmkt&_affclk=ttuk:118609::0::118609::143859c9f626eb0724f38065d097d658::::1606071865:902jip,Travel,9830.4,4.53,2.725,166.44,slow,Medium
+62,https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah,Travel,0.0,0.0,0.78,127.69,medium,Medium
+63,https://tierrahotels.com/patagonia/,Travel,433152.0,1.0,2.55,88.92,slow,Medium
+64,https://www.ritzparis.com/en-GB,Travel,5017.6,0.388,1.395,66.33,slow,Medium
+65,https://www.thehousecollective.com/en/the-middle-house/,Travel,0.0,0.0,4.387,606.05,slow,Medium
+66,https://www.grandhoteltremezzo.com/en/home/,Travel,0.0,0.0,1.354,109.24,slow,Medium
+67,https://www.waldorfastorialoscabospedregal.com/,Travel,17510.4,3.37,4.738,173.47,slow,Medium
+68,https://www.andbeyond.com/our-lodges/africa/south-africa/kruger-national-park/ngala-private-game-reserve/andbeyond-ngala-safari-lodge/,Travel,444928.0,0.286,3.421,58.05,slow,Medium
+69,https://novotel.accor.com/gb/usa/index.shtml,Travel,0.0,0.0,2.896,65.45,slow,Medium
+70,https://www.delta.com/apac/en,Travel,0.0,0.0,0.36,137.72,fast,Medium
+71,https://www.jal.co.jp/inl/en/,Travel,0.0,0.0,0.2,2042.14,fast,Medium
+72,https://www.spicejet.com/,Travel,3481.6,4.44,1.577,56.22,slow,Medium
+73,https://www.airnewzealand.co.nz/homepage,Travel,1638.4,2.0,0.194,310.62,fast,Medium
+74,https://www.finnair.com/,Travel,1126.4,0.975,0.492,87.45,fast,Medium
+75,https://www.britishairways.com/travel/home/public/en_in/,Travel,855142.4,1.3,0.276,466.11,slow,Medium
+76,https://www.airvistara.com/in/en,Travel,8294.4,0.05,4.62,307.99,slow,Medium
+77,https://www.singaporeair.com/en_UK/in/home#/book/bookflight,Travel,8192.0,0.08,2.014,213.24,slow,Medium
+78,https://www.olacabs.com/,Travel,0.0,0.0,0.436,293.65,fast,Medium
+79,https://www.meru.in/,Travel,24780.8,1.0,0.366,3200.47,fast,Medium
+80,https://www.carzonrent.com/,Travel,0.0,0.0,0.053,1591.51,fast,Medium
+81,https://www.bharattaxi.com/,Travel,618803.2,1.56,3.709,34.73,slow,Medium
+82,https://www.megacabs.com/,Travel,0.0,0.0,0.369,762.36,fast,Slow
+83,http://www.mytaxiindia.com/,Travel,0.0,0.0,1.082,113.28,slow,Slow
+84,https://www.zoomcar.com/bangalore/,Travel,0.0,0.0,0.271,0.52,fast,Slow
+85,https://www.lyft.com/,Travel,0.0,0.0,3.083,29.03,slow,Medium
+86,https://www.grab.com/sg/transport/taxi/,Travel,1536.0,1.5,1.508,47.21,slow,Medium
+87,http://www.bitaksi.com/en/,Travel,3584.0,1.5,0.677,575.65,medium,Medium
+88,https://www.avaseakrabi.com/,Travel,0.0,0.0,0.692,67.5,medium,Medium
+89,https://www.fariyas.com/resort-in-lonavala/,Travel,0.0,0.0,0.342,659.23,fast,Slow
+90,https://www.fernhotels.com/,Travel,22937.6,2.03,0.291,28.53,fast,Slow
+91,https://www.tajhotels.com/,Travel,7680.0,2.37,0.179,3768.63,fast,Medium
+92,https://www.montriresort-bangkok.com/,Travel,2457.6,1.61,0.124,0.0,fast,Medium
+93,https://www.tridenthotels.com/,Travel,5017.6,2.85,0.122,716.22,fast,Medium
+94,https://www.tropicanaalibaug.com/,Travel,0.0,0.0,0.321,761.93,fast,Medium
+95,https://www.anantara.com/en/riverside-bangkok,Travel,1433.6,1.84,0.552,176.57,medium,Medium
+96,http://sunbeachresortgorai.com/,Travel,4403.2,4.5,0.422,302.57,fast,Medium
+97,https://waterfrontshaw.com/,Travel,4608.0,6.25,0.259,2821.28,fast,Medium
+98,https://www.silenthillsresort.com/,Travel,4915.2,1.21,0.565,1.7,medium,Medium
+99,https://www.fubo.tv/lp/StreamTV/?irad=343747&irmp=398453&subId1=streamingservices&subId2=ckhgo1ujg00003r8zaneft7pl,Streaming Services,2048.0,0.652,0.982,53.11,medium,Medium
+100,https://www.hulu.com/,Streaming Services,11673.6,1.91,0.179,7520.54,fast,Slow
+101,https://tv.youtube.com/,Streaming Services,1024.0,1.52,0.268,2052.31,fast,Medium
+102,https://www.attwatchtv.com/,Streaming Services,3024.0,1.52,0.396,83.58,fast,Slow
+103,https://www.klowdtv.com/,Streaming Services,826572.8,1.57,0.95,187.03,slow,Slow
+104,https://corporate.pluto.tv/,Streaming Services,1024.0,0.0,0.197,652.09,fast,Slow
+105,https://www.xumo.tv/,Streaming Services,5632.0,4.0,0.237,296.76,fast,Slow
+106,https://www.zee5.com/,Streaming Services,4632.0,4.0,0.495,197.37,fast,Slow
+107,https://www.netflix.com/in/,Streaming Services,3632.0,4.0,0.403,273.37,fast,Medium
+108,https://www.bravotv.com,Streaming Services,7632.0,4.0,1.312,2830.68,slow,Slow
+109,https://watch.diynetwork.com/watch/diy,Streaming Services,688844.8,0.332,0.338,1262.97,slow,Slow
+110,https://abc.com,Streaming Services,6041.6,4.41,0.064,1.05,fast,Slow
+111,https://www.plex.tv,Streaming Services,2252.8,1.52,0.606,481.86,medium,Medium
+112,https://www.popcornflix.com/pages/discover/d/movies,Streaming Services,4403.2,2.36,0.357,6.11,fast,Slow
+113,https://www.netflix.com/in/,Streaming Services,1945.6,0.668,0.287,864.24,fast,Medium
+114,https://www.aetv.com,Streaming Services,2764.8,1.04,0.567,757.33,medium,Medium
+115,https://www.amebatv.com,Streaming Services,3891.2,1.37,0.578,255.73,medium,Slow
+116,https://www.ahctv.com,Streaming Services,1843.2,0.27,1.295,19.24,slow,Slow
+117,https://www.amc.com,Streaming Services,2150.4,1.57,0.351,203.27,fast,Medium
+118,https://www.cbs.com,Streaming Services,1433.6,0.381,0.633,58.1,medium,Medium
+119,https://www.contv.com/browse-movie/,Streaming Services,3481.6,2.19,1.75,519.22,slow,Slow
+120,https://www.epix.com,Streaming Services,1331.2,1.71,1.171,1220.22,slow,Slow
+121,https://www.freeform.com,Streaming Services,1536.0,0.188,0.352,218.98,fast,Slow
+122,https://www.hmnow.com,Streaming Services,2969.6,0.059,0.466,532.46,fast,Slow
+123,https://www.here.tv,Streaming Services,1945.6,1.34,0.801,96.58,medium,Medium
+124,https://www.criterionchannel.com,Streaming Services,3891.2,0.046,1.027,23.74,slow,Medium
+125,https://upfaithandfamily.com,Streaming Services,2457.6,0.657,0.739,280.81,medium,Medium
+126,https://tubitv.com,Streaming Services,660787.2,1.67,0.631,135.84,slow,Medium
+127,https://www.iflix.com,Streaming Services,2048.0,2.5,0.745,127.33,medium,Medium
+128,https://www.vudu.com,Streaming Services,2355.2,1.12,0.277,10.04,fast,Medium
+129,https://123moviesfree.net/home,Streaming Services,0.0,0.0,0.804,68.57,medium,Medium
+130,https://putlocker-is.org,Streaming Services,2355.2,2.19,0.421,754.53,fast,Slow
+131,https://www.kanopy.com,Streaming Services,3276.8,1.57,1.981,173.38,slow,Medium
+132,https://www.apple.com/itunes/,Streaming Services,14643.2,1.35,1.622,90.46,slow,Medium
+133,https://www.spotify.com/in/,Streaming Services,351027.2,3.72,0.825,73.81,slow,Medium
+134,https://music.youtube.com,Streaming Services,437964.8,0.459,0.232,31.76,slow,Medium
+135,https://music.amazon.in,Streaming Services,4505.6,0.864,1.897,32.27,slow,Slow
+136,https://www.hungama.com,Streaming Services,1228.8,1.55,0.495,180.26,fast,Slow
+137,https://soundcloud.com,Streaming Services,3072.0,0.663,1.559,300.08,slow,Medium
+138,https://www.jamendo.com/?language=en,Streaming Services,2969.6,1.97,0.288,256.26,fast,Slow
+139,https://www.soundclick.com,Streaming Services,26419.2,0.208,0.696,642.86,medium,Medium
+140,https://www.idagio.com,Streaming Services,4403.2,2.83,0.155,106.24,fast,Slow
+141,https://tidal.com,Streaming Services,3788.8,0.544,0.726,185.09,medium,Slow
+142,https://gaana.com,Social Networking and Messaging,1024.0,0.602,0.322,70.98,fast,Slow
+143,https://www.jiosaavn.com,Streaming Services,711475.2,0.518,1.498,14.52,slow,Slow
+144,https://www.apple.com/in/apple-music/,Streaming Services,7065.6,1.81,0.085,809.16,fast,Slow
+145,https://www.livexlive.com,Streaming Services,94412.8,0.652,4.586,10.69,slow,Slow
+146,https://us.napster.com,Streaming Services,682700.8,1.44,0.487,17.72,slow,Medium
+147,https://www.primephonic.com,Streaming Services,1126.4,3.54,0.499,106.77,fast,Medium
+148,https://groovesharks.org,Streaming Services,2048.0,0.853,0.339,382.26,fast,Medium
+149,https://www.murfie.com,Streaming Services,91136.0,0.5,0.953,195.5,medium,Medium
+150,https://www.anghami.com,Streaming Services,7475.2,1.92,0.853,2.75,medium,Medium
+151,https://www.epidemicsound.com,Streaming Services,7065.6,3.13,0.466,8.98,fast,Medium
+152,https://www.last.fm,Streaming Services,452812.8,1.17,0.424,6.89,slow,Medium
+153,https://blip.fm,Streaming Services,1536.0,1.38,1.585,27.61,slow,Medium
+154,https://www.jango.com,Streaming Services,1228.8,0.762,0.186,47.5,fast,Medium
+155,https://www.iheart.com/podcast/,Streaming Services,672051.2,4.59,0.37,219.92,slow,Slow
+156,https://vimeo.com,Streaming Services,4198.4,2.35,2.864,326.32,slow,Medium
+157,https://www.twitch.tv,Streaming Services,1331.2,1.04,0.35,20.0,fast,Medium
+158,https://livestream.com,Streaming Services,1945.6,0.833,0.392,331.29,fast,Medium
+159,https://www.periscope.tv,Streaming Services,13926.4,0.049,0.297,1.21,fast,Medium
+160,https://www.dacast.com,Streaming Services,4300.8,0.751,1.211,61.45,slow,Medium
+161,https://video.ibm.com,Streaming Services,1331.2,0.301,0.705,108.59,medium,Slow
+162,https://www.shoutcast.com,Streaming Services,0.0,0.0,0.294,100.48,fast,Slow
+163,https://www.panopto.com,Streaming Services,756633.6,0.589,1.364,57.33,slow,Slow
+164,https://streamlabs.com,Streaming Services,2048.0,0.513,1.103,57.81,slow,Medium
+165,https://corp.kaltura.com,Streaming Services,3891.2,2.1,0.303,158.22,fast,Slow
+166,https://www.vplayed.com,Streaming Services,953344.0,1.38,2.356,57.65,slow,Slow
+167,https://www.vmix.com,Streaming Services,0.0,0.0,0.915,31.74,medium,Slow
+168,https://www.facebook.com/formedia/solutions/facebook-live,Streaming Services,3481.6,0.614,0.776,55.86,medium,Slow
+169,https://clipbucket.com,Streaming Services,3891.2,1.97,0.741,33.5,medium,Slow
+170,https://www.ventunotech.com,Streaming Services,2355.2,4.26,1.441,93.6,slow,Slow
+171,https://www.shift72.com,Streaming Services,4096.0,1.5,1.008,37.44,slow,Slow
+172,https://instagib.tv,Streaming Services,3788.8,2.47,0.575,2.22,medium,Slow
+173,https://switchboard.live,Streaming Services,1331.2,4.5,0.244,150.43,fast,Slow
+174,https://streamyard.com,Streaming Services,1638.4,3.81,0.426,586.78,fast,Medium
+175,https://www.primevideo.com,Streaming Services,4710.4,2.3,0.922,62.21,medium,Slow
+176,https://mubi.com,Streaming Services,127795.2,1.83,0.43,513.63,medium,Slow
+177,https://www.sho.com/video/full-episodes,Streaming Services,3584.0,2.22,0.561,157.46,medium,Slow
+178,https://azm.to,Streaming Services,0.0,0.0,1.33,48.14,slow,Slow
+179,https://www.broadwayhd.com,Streaming Services,1740.8,0.805,3.226,6.86,slow,Slow
+180,https://www.cameleon.live,Streaming Services,3174.4,1.05,0.323,475.33,fast,Slow
+181,https://www.hidive.com,Streaming Services,2560.0,2.4,0.297,307.38,fast,Slow
+182,https://www.medici.tv/en/,Streaming Services,971673.6,0.512,0.688,343.98,slow,Medium
+183,http://www.metacdn.com,Streaming Services,3891.2,3.43,0.791,76.39,medium,Medium
+184,https://www.shemarooent.com,Streaming Services,350412.8,0.931,3.166,14.99,slow,Slow
+185,https://www.siriusxm.com,Streaming Services,2048.0,2.5,0.568,39.68,medium,Medium
+186,https://www.att.com/tv/,Streaming Services,3584.0,3.4,0.304,5.88,fast,Medium
+187,https://tunein.com,Streaming Services,590438.4,1.29,0.488,69.79,slow,Medium
+188,https://www.purevolume.com/?safari=1,Streaming Services,0.0,0.0,1.603,92.96,slow,Slow
+189,https://wynk.in/music,Streaming Services,3993.6,2.04,1.306,1032.61,slow,Medium
+190,https://watch.mhzchoice.com,Streaming Services,7680.0,4.0,1.967,110.16,slow,Slow
+191,https://spuul.com,Streaming Services,3891.2,1.52,1.181,0.0,slow,Medium
+192,https://solarmovie.mom,Streaming Services,2764.8,0.926,0.776,35.51,medium,Slow
+193,https://gostreamsite.ga,Streaming Services,1638.4,1.25,3.5,1.19,slow,Medium
+194,https://www.imdb.com/tv/,Streaming Services,16588.8,4.07,0.407,81.21,fast,Slow
+195,https://moviestars.to,Streaming Services,382873.6,0.359,0.436,141.05,slow,Medium
+196,https://www.stream4u.net,Streaming Services,37068.8,0.585,0.522,2410.89,medium,Slow
+197,https://ww5.fmovie.sc,Streaming Services,4505.6,6.0,0.99,108.88,medium,Medium
+198,http://www.streamlord.com/index.html,Streaming Services,3379.2,0.09,0.731,521.2,medium,Medium
+199,https://flixtor.is/home,Streaming Services,4608.0,1.58,1.278,48.87,slow,Medium
+200,https://www.yidio.com,Streaming Services,359424.0,0.214,3.085,24.44,slow,Slow
+201,https://sports.inquirer.net/,Streaming Services,483430.4,2.23,0.812,247.46,slow,Medium
+202,https://wwos.nine.com.au/,Streaming Services,2457.6,2.99,0.836,43.31,medium,Medium
+203,https://www.essentiallysports.com/,Streaming Services,37376.0,0.333,2.19,61.09,slow,Slow
+204,https://www.insidesport.co/,Streaming Services,1024.0,0.746,0.712,96.17,medium,Slow
+205,https://www.sportsnet.ca/,Sports,1331.2,0.273,0.781,270.54,medium,Medium
+206,https://www.theroar.com.au/,Sports,0.0,0.0,2.666,403.22,slow,Medium
+207,https://canoe.com/category/sports/,Sports,3584.0,1.75,0.602,155.52,medium,Fast
+208,https://sportscafe.in/,Sports,2150.4,3.66,1.401,185.2,slow,Medium
+209,https://www.footballcritic.com/,Sports,1536.0,1.18,0.348,27.28,fast,Fast
+210,https://www.whatproswear.com/,Sports,5427.2,4.0,1.936,14.99,slow,Fast
+211,https://www.sportscrunch.in/,Sports,1228.8,0.728,0.818,131.59,medium,Medium
+212,https://arysports.tv/,Sports,4915.2,2.69,1.895,33.17,slow,Medium
+213,https://usatodayhss.com/,Sports,3072.0,1.28,0.505,157.45,medium,Slow
+214,https://www.thesportsnews.in/,Sports,2764.8,1.24,0.75,155.44,medium,Fast
+215,https://unafraidshow.com/,Sports,2867.2,4.0,0.461,57.27,fast,Fast
+216,https://worldinsport.com/,Sports,2355.2,4.0,2.077,13.97,slow,Medium
+217,http://www.indiansportsnews.com/,Sports,3379.2,1.46,0.604,63.95,medium,Fast
+218,https://www.sportsnewsireland.com/,Sports,950784.0,2.18,1.055,9.22,slow,Fast
+219,https://westwoodonesports.com/,Sports,12697.6,2.51,0.733,90.49,medium,Medium
+220,https://xtratime.in/,Sports,450662.4,1.95,1.732,669.15,slow,Medium
+221,https://www.sportelo.com.ng/,Sports,12697.6,0.5,0.699,119.66,medium,Fast
+222,https://sportsrenegade.com/,Sports,2150.4,1.6,1.678,77.84,slow,Fast
+223,https://www.thesportsmirror.com/,Sports,397209.6,1.16,0.103,584.86,slow,Slow
+224,https://franchisesports.co.uk/,Sports,6246.4,6.07,0.318,250.78,fast,Medium
+225,https://pacificnwsports.com/,Sports,3584.0,2.33,0.543,20.72,medium,Medium
+226,https://247sportsgist.com/,Sports,1024.0,0.0,0.266,650.14,fast,Slow
+227,https://www.sportelo.com.ng/,Sports,3584.0,2.3,0.173,2123.09,fast,Slow
+228,https://sportsrenegade.com/,Sports,1433.6,1.09,0.37,183.54,fast,Slow
+229,https://prosportsoutlook.com/,Sports,2252.8,2.72,0.184,129.7,fast,Slow
+230,https://www.sportskanazee.com/,Sports,1331.2,1.59,0.329,4748.25,fast,Fast
+231,https://daenadsports.blogspot.com/,Sports,2560.0,3.24,0.382,1210.34,fast,Fast
+232,https://sportsevolve.blogspot.com/,Sports,1024.0,0.0,0.99,50.27,medium,Fast
+233,https://www.sportspac12.com/,Sports,2252.8,0.134,0.751,68.31,medium,Fast
+234,http://www.manunitedforever.net/,Sports,382771.2,0.29,0.473,42.96,slow,Fast
+235,https://sportsration.com/,Sports,2867.2,1.34,0.736,75.0,medium,Slow
+236,https://www.footballaudit.com/,Sports,310272.0,0.458,1.406,74.88,slow,Slow
+237,https://www.csipacific.ca/,Sports,3481.6,2.34,2.553,237.99,slow,Medium
+238,https://www.thebuzzsports.com/,Sports,347852.8,2.17,0.216,45.25,slow,Medium
+239,https://prosportsoutlook.com/,Sports,1252.8,0.264,0.103,61.63,fast,Medium
+240,https://www.sporttechie.com/,Sports,4252.8,0.464,0.125,4149.86,fast,Fast
+241,https://globalmoneyworld.com/index.php/category/global-world-sports/,,3788.8,1.78,0.209,81.46,fast,Slow
+242,https://www.scout.com/,Sports,0.0,0.0,0.497,87.32,fast,Medium
+243,https://sportsevolve.blogspot.com/,Sports,2252.8,0.364,3.475,13.92,slow,Medium
+244,https://seriouslysports.com/,Sports,17203.2,7.08,0.68,63.86,medium,Medium
+245,https://sportstar.thehindu.com/,Sports,1638.4,1.56,0.276,146.25,fast,Medium
+246,https://sportsinfonow.com/,Sports,6758.4,0.048,0.762,49.75,medium,Fast
+247,https://www.sportsmanagement.co.uk/index.cfm,Sports,439500.8,0.294,0.652,28.06,slow,Medium
+248,https://www.completesports.com/,Sports,5017.6,2.53,0.545,99.18,medium,Medium
+249,https://sportgrill.blog/,Sports,1945.6,1.76,0.323,25.97,fast,Medium
+250,https://blog.betzcenter.com/,Sports,1228.8,3.78,0.718,4.73,medium,Slow
+251,https://www.sportsplatform.in/,Sports,8704.0,1.74,0.648,101.56,medium,Medium
+252,https://sportspages.in/blog/,Sports,44544.0,2.5,0.342,129.41,fast,Fast
+253,https://benwsportblog.wordpress.com/,Sports,2457.6,1.9,2.416,294.68,slow,Fast
+254,https://www.sportshype.online/,Sports,4710.4,3.82,0.249,249.89,fast,Slow
+255,http://kridangan.com/,Social Networking and Messaging,143257.6,0.877,0.399,6.73,slow,Medium
+256,https://www.athletesanon.com/blog,Sports,1536.0,1.55,0.256,35.15,fast,Slow
+257,https://sportsvilla.wordpress.com/,Sports,7884.8,2.71,0.684,61.08,medium,Fast
+258,https://www.goal.com/en,Sports,1024.0,0.0,0.936,69.17,medium,Fast
+259,https://www.101greatgoals.com/,Sports,1740.8,1.76,0.274,36.54,fast,Fast
+260,https://www.thisisanfield.com/,Sports,1024.0,0.0,0.131,66.52,fast,Fast
+261,https://sport360.com/,Sports,259891.2,0.449,0.265,161.27,slow,Medium
+262,https://www.criclines.com/,Sports,2150.4,0.712,0.061,329.52,fast,Fast
+263,https://www.cricadium.com/,Sports,1638.4,1.04,1.586,122.31,slow,Medium
+264,https://cricblog.net/,Sports,2252.8,1.11,0.176,55.46,fast,Fast
+265,https://www.beforeyoubet.com.au/,Sports,14540.8,6.26,0.158,134.57,fast,Slow
+266,https://www.zerocric.com/,Sports,2969.6,5.8,0.186,1.54,fast,Slow
+267,https://www.thefulltoss.com/,Sports,2048.0,0.466,3.968,22.44,slow,Fast
+268,https://www.sweepcricket.com/,Sports,1126.4,2.67,0.401,34.16,fast,Medium
+269,https://caribbeancricket.com/news,Sports,1638.4,3.0,0.628,39.11,medium,Slow
+270,https://cricket-cup.blogspot.com/,Sports,585420.8,2.08,1.175,21.72,slow,Fast
+271,https://www.mycricket.ae/,News,5632.0,1.49,0.787,1461.16,medium,Slow
+272,https://caughtatpoint.com/,Sports,2048.0,3.02,1.101,410.57,slow,Fast
+273,https://www.qldcricket.com.au/,Sports,1536.0,1.35,0.028,880.07,fast,Fast
+274,https://www.starsandstripesfc.com/,Sports,4300.8,2.61,0.934,50.08,medium,Medium
+275,https://www.yoursoccerdose.com/,Sports,0.0,0.0,1.065,276.84,slow,Slow
+276,https://www.liverpoolecho.co.uk/,Sports,5734.4,2.98,0.362,21.89,fast,Medium
+277,https://www.football.london/,Sports,1024.0,1.9,0.253,29.44,fast,Medium
+278,http://www.avillafan.com/,Sports,4505.6,3.0,0.415,79.07,fast,Medium
+279,http://www.just-football.com/,Sports,0.0,0.0,1.211,86.06,slow,Fast
+280,https://onefootball.com/en/home,Sports,2764.8,3.45,0.087,1318.92,fast,Medium
+281,https://www.nottinghampost.com/sport/football/,Sports,2560.0,2.31,5.448,2.37,slow,Fast
+282,https://www.soccerstats.com/,Sports,1945.6,4.09,7.419,0.0,slow,Slow
+283,https://www.diariogol.com/,Sports,13516.8,3.59,0.196,65.28,fast,Medium
+284,https://crickettimes.com/,Sports,439193.6,0.886,0.588,251.76,slow,Slow
+285,http://www.legaseriea.it/en,Sports,2662.4,1.91,1.385,108.27,slow,Medium
+286,https://arseblog.com/,Sports,1331.2,2.47,0.864,118.94,medium,Medium
+287,https://sportslens.com/,Sports,949043.2,0.989,0.873,98.0,slow,Fast
+288,https://www.transfermarkt.com/,Sports,10547.2,5.76,6.289,10.77,slow,Fast
+289,https://nypost.com/baseball/,Sports,5017.6,2.19,0.52,801.22,medium,Medium
+290,https://d1baseball.com/,Sports,3072.0,1.51,0.337,195.52,fast,Medium
+291,https://www.baseballamerica.com/,Sports,1433.6,0.881,1.172,264.02,slow,Fast
+292,https://www.baseball-reference.com/,Sports,2867.2,0.966,0.553,168.78,medium,Fast
+293,http://www.badzine.net/,Sports,2867.2,0.915,0.534,312.14,medium,Fast
+294,https://www.badmintonengland.co.uk/,Sports,4198.4,1.81,1.287,29.39,slow,Fast
+295,https://www.badmintonireland.com/,Sports,11161.6,1.77,0.211,49.05,fast,Fast
+296,http://everything-badminton.com/,Sports,3174.4,1.78,2.567,126.39,slow,Fast
+297,https://shuttlesmash.com/,Sports,1331.2,3.85,0.443,222.36,fast,Medium
+298,https://tennisforfree.com/,Sports,11366.4,5.0,0.153,13.99,fast,Fast
+299,https://www.wtatennis.com/,Sports,796467.2,0.242,1.052,101.64,slow,Medium
+300,https://www.tennis.com/,Sports,258355.2,4.01,1.577,1.95,slow,Fast
+301,https://secondlife.com/,Sports,1945.6,2.8,-0.198,692.38,fast,Medium
+302,https://www.paltalk.com/,Sports,1843.2,2.42,6.734,61.25,slow,Fast
+303,https://secure.imvu.com/welcome/ftux/,Sports,0.0,0.0,0.204,545.63,fast,Medium
+304,https://enterchatroom.com/,Sports,0.0,0.0,0.7,44.97,medium,Fast
+305,https://www.antichat.me/,Social Networking and Messaging,2560.0,0.9,0.615,31.03,medium,Slow
+306,https://chatroulette.com/,Social Networking and Messaging,4096.0,2.04,2.842,309.64,slow,Medium
+307,https://rockchat.net/,Social Networking and Messaging,760422.4,0.884,1.568,14.89,slow,Slow
+308,https://www.elitesingles.com/,Social Networking and Messaging,312627.2,0.936,0.302,173.34,slow,Fast
+309,https://www.charmdate.com/,Social Networking and Messaging,971980.8,1.42,0.451,77.99,slow,Medium
+310,https://www.321chat.com/,Social Networking and Messaging,3379.2,0.335,2.287,2.38,slow,Medium
+311,https://chat.icq.com/icqchat/,Social Networking and Messaging,958668.8,2.45,0.467,1018.03,slow,Medium
+312,https://www.tendermeets.com/couple/chat-rooms.html,Social Networking and Messaging,3276.8,1.57,0.295,211.92,fast,Medium
+313,https://www.mocospace.com/,Social Networking and Messaging,1740.8,2.58,0.453,81.83,fast,Medium
+314,https://tinychat.com/,Social Networking and Messaging,501145.6,0.495,0.385,0.0,slow,Medium
+315,https://www.justchat.co.uk/,Social Networking and Messaging,2048.0,1.36,0.114,118.95,fast,Slow
+316,https://p.badoo.com/l/2f23922d23e23c25722521422122120b21,Social Networking and Messaging,418201.6,2.74,1.5,0.6,slow,Slow
+317,https://www.elitemate.com/,Social Networking and Messaging,826572.8,0.541,1.392,128.23,slow,Medium
+318,https://date.com/,Social Networking and Messaging,2355.2,0.675,1.358,122.87,slow,Medium
+319,https://www.flirt.com/,Social Networking and Messaging,505548.8,1.64,0.399,297.26,slow,Medium
+320,https://www.chatib.us/,Social Networking and Messaging,883814.4,2.39,0.272,169.64,slow,Medium
+321,https://www.wireclub.com/,Social Networking and Messaging,1126.4,0.967,0.233,86.19,fast,Medium
+322,https://www.match.com/,Social Networking and Messaging,79564.8,3.54,0.713,146.49,medium,Medium
+323,https://www.facebook.com/,Social Networking and Messaging,1536.0,0.523,1.709,47.99,slow,Fast
+324,https://www.youtube.com/,Social Networking and Messaging,219648.0,0.493,1.545,1.81,slow,Fast
+325,https://www.whatsapp.com/,Social Networking and Messaging,299417.6,0.425,0.41,54.95,slow,Fast
+326,https://messenger.com/,Social Networking and Messaging,853811.2,0.81,0.914,0.04,slow,Fast
+327,https://www.instagram.com/,Social Networking and Messaging,325529.6,0.441,4.169,33.99,slow,Fast
+328,https://www.tumblr.com/,Social Networking and Messaging,3891.2,1.92,0.478,112.95,fast,Slow
+329,https://www.linkedin.com/,Social Networking and Messaging,2560.0,0.771,3.038,162.9,slow,Fast
+330,https://www.snapchat.com/,Social Networking and Messaging,2560.0,0.754,4.132,22.12,slow,Fast
+331,https://www.pinterest.com/,Social Networking and Messaging,2457.6,0.949,2.95,0.07,slow,Fast
+332,https://line.me/en/,Social Networking and Messaging,994406.4,0.488,0.548,206.98,slow,Fast
+333,https://telegram.org/,Social Networking and Messaging,484044.8,0.736,1.891,42.11,slow,Slow
+334,https://www.321chat.com/,Social Networking and Messaging,1433.6,0.619,0.983,13.92,medium,Slow
+335,https://www.chat-avenue.com/,Social Networking and Messaging,16076.8,0.615,1.493,29.63,slow,Slow
+336,https://www.wireclub.com/,Social Networking and Messaging,3584.0,4.88,0.661,105.09,medium,Slow
+337,http://www.paltalk.com/,Social Networking and Messaging,2355.2,0.243,0.535,76.83,medium,Fast
+338,https://ukchat.com/,Social Networking and Messaging,501248.0,0.469,0.555,29.01,slow,Fast
+339,https://www.kidschat.net/,Social Networking and Messaging,220672.0,0.22,0.666,102.0,slow,Medium
+340,https://www.teen-chat.org/,Social Networking and Messaging,298700.8,0.489,0.161,1404.04,slow,Slow
+341,https://www.tinychat.com/,Social Networking and Messaging,3993.6,1.55,0.097,2440.43,fast,Slow
+342,https://y99.in/,Social Networking and Messaging,1228.8,6.52,0.64,198.11,medium,Fast
+343,https://chat.tripsit.me/,Social Networking and Messaging,1228.8,2.14,0.916,348.52,medium,Medium
+344,https://www.omegle.com/,Social Networking and Messaging,92057.6,0.137,0.682,301.53,medium,Slow
+345,https://allotalk.com/,Social Networking and Messaging,2048.0,1.34,1.202,101.99,slow,Medium
+346,http://www.rphaven.com/,Social Networking and Messaging,533708.8,0.448,0.421,245.5,slow,Slow
+347,https://www.buzzen.com/,Social Networking and Messaging,785817.6,0.659,0.299,161.87,slow,Slow
+348,https://www.chat27.co.za/,Social Networking and Messaging,1433.6,0.116,3.077,85.84,slow,Medium
+349,http://b-gay.com/chat/,Social Networking and Messaging,251392.0,0.296,1.097,109.36,slow,Medium
+350,https://www.gaychat.zone/,Social Networking and Messaging,1126.4,1.2,0.604,79.92,medium,Slow
+351,https://www.buzz50.com/,Social Networking and Messaging,3276.8,2.31,3.807,33.95,slow,Slow
+352,https://seniorchatters.co.uk/,Social Networking and Messaging,1024.0,2.55,0.392,424.86,fast,Slow
+353,https://www.chatogo.com/,Social Networking and Messaging,1433.6,1.24,1.734,71.28,slow,Medium
+354,http://www.healthfulchat.org/all-chat-rooms.html,Social Networking and Messaging,283955.2,2.56,1.972,33.77,slow,Slow
+355,http://www.chathour.com/,Social Networking and Messaging,813977.6,1.21,2.227,18.6,slow,Fast
+356,https://www.spinchat.com/,Social Networking and Messaging,34611.2,5.5,0.843,117.76,medium,Fast
+357,https://xat.com/,Social Networking and Messaging,22528.0,0.126,0.892,53.44,medium,Medium
+358,https://www.chatblink.com/chat-list,Social Networking and Messaging,770764.8,3.68,0.734,63.08,slow,Slow
+359,https://en.lycos.social/,Social Networking and Messaging,548966.4,0.494,0.826,75.07,slow,Medium
+360,http://www.icq-chat.com/,Social Networking and Messaging,157491.2,0.177,0.261,201.49,slow,Slow
+361,https://secondlife.com/,Social Networking and Messaging,1126.4,0.303,3.941,26.86,slow,Slow
+362,http://christianchat.com/,Social Networking and Messaging,1228.8,1.68,0.402,262.67,fast,Slow
+363,http://www.vpchat.com/,Social Networking and Messaging,8499.2,0.0,0.457,98.93,fast,Medium
+364,http://chattusa.com/,Social Networking and Messaging,4608.0,3.19,3.756,26.25,slow,Fast
+365,https://www.camamba.com/,Social Networking and Messaging,2560.0,0.909,0.887,66.57,medium,Fast
+366,http://www.blackchat.co.uk/blackchatold/hangout/,Social Networking and Messaging,1228.8,1.07,0.439,38.69,fast,Fast
+367,http://www.kidzworld.com/chat,Social Networking and Messaging,117862.4,1.09,2.767,37.84,slow,Medium
+368,http://www.jesusrocksonirc.net/,Social Networking and Messaging,2048.0,1.2,2.124,24.87,slow,Slow
+369,https://www.chatpit.com/,Social Networking and Messaging,298803.2,0.348,0.272,938.08,slow,Medium
+370,https://www.chatfamily.com/,Social Networking and Messaging,1843.2,2.91,0.553,237.1,medium,Medium
+371,https://www.diigo.com/,Social Networking and Messaging,2048.0,1.02,2.743,51.04,slow,Fast
+372,https://twitpic.com/,Social Networking and Messaging,1024.0,0.0,0.561,98.14,medium,Medium
+373,https://hi5.com/,Social Networking and Messaging,1228.8,1.34,0.052,316.94,fast,Medium
+374,http://xanga.com/,Social Networking and Messaging,318668.8,1.58,1.545,68.3,slow,Medium
+375,https://www.care2.com/,Social Networking and Messaging,426905.6,1.74,0.036,24.14,slow,Medium
+376,http://www.orkut.com/,Social Networking and Messaging,15257.6,0.066,1.157,85.08,slow,Medium
+377,https://getsatisfaction.com/,Social Networking and Messaging,696832.0,1.04,0.422,408.98,slow,Slow
+378,https://www.digitalcameraworld.com,Social Networking and Messaging,110284.8,0.587,0.424,74.68,medium,Fast
+379,https://www.cambridgeincolour.com,Social Networking and Messaging,6041.6,2.05,0.67,49.9,medium,Medium
+380,https://photographylife.com,Social Networking and Messaging,157696.0,0.232,0.329,494.1,slow,Medium
+381,https://fstoppers.com,Social Networking and Messaging,1536.0,0.401,1.682,61.42,slow,Slow
+382,https://camerajabber.com,Photography,16281.6,1.17,1.156,32.72,slow,Medium
+383,https://www.diyphotography.net,Photography,1228.8,1.08,0.496,244.08,fast,Slow
+384,https://iphonephotographyschool.com,Photography,319078.4,0.205,0.367,153.58,slow,medium
+385,https://www.dpreview.com,Photography,8089.6,1.26,0.808,11.23,medium,medium
+386,https://www.thesprucecrafts.com/photography-4162939,Photography,1536.0,1.31,3.67,10.77,slow,medium
+387,https://500px.com,Photography,3993.6,1.14,0.38,437.97,fast,medium
+388,https://www.thephotoargus.com,Photography,19968.0,1.4,1.736,138.1,slow,medium
+389,https://levonbiss.com,Photography,2457.6,1.78,0.754,978.04,medium,medium
+390,https://www.petermckinnon.com,Photography,1228.8,0.536,0.276,242.31,fast,medium
+391,https://www.mpkelley.com,Photography,7372.8,2.15,0.59,135.38,medium,medium
+392,https://blazinphoto.com,Photography,2764.8,1.05,0.262,207.1,fast,medium
+393,http://www.harisnukem.com,Photography,10137.6,1.36,0.959,57.53,medium,medium
+394,https://www.lieben.no,Photography,11161.6,2.55,0.257,598.66,fast,medium
+395,https://www.branditoolephoto.com,Photography,3993.6,0.924,0.278,1296.17,fast,medium
+396,http://www.sanzlena.com,Photography,776396.8,1.04,0.584,171.13,slow,medium
+397,https://www.kaylafisherphotography.com,Photography,1843.2,1.15,3.671,0.0,slow,medium
+398,https://www.mathieustern.com,Photography,0.0,0.0,1.102,73.11,slow,medium
+399,https://cassandraladru.com,Photography,2355.2,1.12,0.996,59.48,medium,medium
+400,https://www.danielkennedy.com,Photography,1228.8,3.04,4.309,0.8,slow,medium
+401,https://daniloandsharon.com,Photography,554700.8,1.99,1.971,132.19,slow,medium
+402,https://www.adambirdphotography.com,Photography,2252.8,1.18,0.041,15227.28,fast,slow
+403,https://www.moyo-studio.com,Photography,1843.2,2.09,0.438,178.78,fast,Slow
+404,https://alexisjuliaphoto.com,Photography,49971.2,2.52,0.184,1739.75,fast,Fast
+405,https://www.davemorrowphotography.com/photography-fundamentals,Photography,50176.0,3.96,0.63,0.72,medium,Slow
+406,https://www.dodho.com,Photography,4096.0,3.36,5.174,490.63,slow,Medium
+407,https://thefashioncamera.com,Photography,5222.4,2.26,2.027,104.38,slow,Slow
+408,https://www.featureshoot.com,Photography,3788.8,0.704,2.654,27.96,slow,Slow
+409,http://intothenightphoto.blogspot.com,Photography,430284.8,1.46,1.731,590.78,slow,Slow
+410,https://www.fionakellyphotography.com/blog/,Photography,2048.0,1.43,0.564,72.17,medium,Fast
+411,https://www.behindtheshutter.com,Photography,1536.0,6.95,6.716,106.08,slow,Fast
+412,https://petapixel.com,Photography,11571.2,3.49,0.636,97.3,medium,Fast
+413,https://www.lightstalking.com,Photography,4608.0,1.64,1.201,61.14,slow,Fast
+414,https://www.photo.net,Photography,2764.8,0.599,3.222,40.47,slow,Fast
+415,https://www.picturecorrect.com,Photography,8396.8,2.72,2.999,31.7,slow,Medium
+416,https://www.slrlounge.com,Photography,2457.6,1.31,1.627,186.71,slow,Medium
+417,https://www.popphoto.com,Photography,4608.0,0.836,0.242,7.96,fast,Medium
+418,https://photography.tutsplus.com,Photography,20889.6,3.54,0.247,3359.27,fast,Medium
+419,https://www.creativelive.com/photography?via=hero-freeform_1,Photography,27443.2,0.548,1.519,43.21,slow,Fast
+420,https://www.whatsthebest.co.uk/tech/photography/,Photography,8499.2,2.89,0.922,169.77,medium,Fast
+421,https://tomhull.co.uk,Photography,2048.0,1.1,0.37,2487.54,fast,Fast
+422,https://www.linnimages.com,Photography,2252.8,2.93,0.771,37.3,medium,Slow
+423,https://www.amitmehra.com,Photography,8704.0,2.8,3.296,36.12,slow,Slow
+424,https://www.jillgreenberg.com,Photography,2969.6,1.26,2.215,42.6,slow,Slow
+425,https://www.jonathanglynnsmith.com,Photography,4812.8,2.43,0.559,170.09,medium,Fast
+426,https://www.nateluebbe.com,Photography,3686.4,1.02,0.515,64.67,medium,Medium
+427,http://www.brentstirton.com,Photography,11878.4,1.4,1.202,64.22,slow,Medium
+428,http://www.dollyave.com,Photography,2150.4,1.62,0.542,155.2,medium,Medium
+429,https://east.co,Photography,140492.8,1.19,0.613,104.53,slow,Medium
+430,https://www.360cities.net/,Photography,3788.8,1.38,0.203,86.74,fast,Medium
+431,https://www.bbc.com/news/in_pictures,Photography,2355.2,1.05,0.27,257.13,fast,Medium
+432,https://www.blipfoto.com/,Photography,3174.4,1.45,0.204,299.4,fast,Fast
+433,https://c4fap.org/,Photography,610611.2,1.09,0.226,249.98,slow,Fast
+434,https://www.deviantart.com/,Photography,7475.2,3.12,0.317,25.48,fast,Fast
+435,https://www.coolphotoideas.com/,Photography,2560.0,1.54,0.449,28.6,fast,Fast
+436,https://www.digitalphotopro.com/technique/,Photography,2764.8,1.45,0.611,499.06,medium,Fast
+437,https://www.dpreview.com/,Photography,4300.8,1.6,0.253,2.05,fast,Fast
+438,https://digital-photography-school.com/,Social Networking and Messaging,2252.8,2.85,1.088,31.82,slow,slow
+439,http://www.ephotozine.com/,Photography,2355.2,1.31,0.35,114.87,fast,slow
+440,https://filemagazine.com/,Photography,1024.0,0.0,0.163,271.07,fast,slow
+441,https://www.ippawards.com/,Photography,2457.6,2.42,0.194,7.03,fast,slow
+442,https://morguefile.com/,Photography,1536.0,1.33,1.688,451.1,slow,slow
+443,https://www.capture-life.de/,Photography,2048.0,1.41,1.132,152.2,slow,medium
+444,https://www.morganleephotographer.com/,Photography,6656.0,0.441,0.244,427.4,fast,medium
+445,https://www.bulbcreative.co/,Photography,7680.0,2.52,0.702,205.51,medium,medium
+446,https://josephhardin.com/,Photography,1433.6,2.22,0.614,599.75,medium,medium
+447,https://rmweddingfilms.co.uk/,Photography,3993.6,2.14,2.545,7.22,slow,medium
+448,https://mlphotofilm.com/,Photography,1024.0,0.0,1.993,121.56,slow,medium
+449,https://www.velare.co/,Photography,1945.6,1.61,0.825,110.14,medium,medium
+450,https://www.roseyredphotography.com/,Photography,11878.4,2.74,0.979,70.83,medium,medium
+451,https://www.outdoorphotographer.com/,Photography,3584.0,2.29,0.463,555.5,fast,medium
+452,https://www.naturephotographers.network/,Photography,5939.2,1.44,1.397,105.79,slow,Fast
+453,http://www.pawspetphotography.co.uk/galleries/,Photography,1228.8,1.02,1.987,10.47,slow,Slow
+454,https://www.photo.net/,Photography,13619.2,3.03,0.39,177.21,fast,Medium
+455,https://psa-photo.org/,Photography,1024.0,0.0,2.961,79.82,slow,Fast
+456,https://www.photographytalk.com/2,Photography,5324.8,1.95,0.169,1252.93,fast,Fast
+457,http://markhancock.blogspot.com/,Photography,1945.6,3.46,0.4,297.56,fast,Fast
+458,http://www.photopreneur.com/,Photography,2355.2,2.37,1.769,27.05,slow,Slow
+459,http://pimpyourcam.com/,Photography,2355.2,2.37,5.722,5.5,slow,Slow
+460,https://www.pixyblog.com/,Photography,8601.6,3.35,0.12,486.06,fast,Slow
+461,https://rps.org/,Photography,8601.6,3.35,0.843,9.27,medium,Slow
+462,https://www.jillgreenberg.com/,Photography,38707.2,1.08,0.612,84.0,medium,Slow
+463,https://strobist.blogspot.com/,Photography,442163.2,0.451,0.275,26.05,slow,Slow
+464,https://theonlinephotographer.typepad.com/the_online_photographer/,Photography,170496.0,5.88,0.369,61.09,slow,Medium
+465,https://www.jonathanglynnsmith.com/,Photography,37171.2,1.55,0.182,340.57,fast,Medium
+466,http://www.weatherscapes.com/,Photography,2150.4,1.26,0.212,848.39,fast,Fast
+467,http://www.weatherscapes.com/,Photography,722124.8,0.998,3.697,11.92,slow,Fast
+468,https://www.jasonbellphoto.com/#/home/,Photography,80896.0,0.089,0.203,413.71,medium,Fast
+469,https://www.danielkennedy.com/,Photography,135577.6,0.485,0.228,0.5,slow,Fast
+470,https://news.google.com/,Photography,177561.6,0.754,1.087,9.45,slow,Fast
+471,https://news.yahoo.com/,Photography,177459.2,0.354,0.265,355.37,slow,Fast
+472,https://edition.cnn.com/,Photography,604262.4,0.892,0.652,11.58,slow,Fast
+473,https://www.bbc.com/news,Photography,49868.8,2.65,0.41,41.93,fast,Fast
+474,https://www.nytimes.com/,News,389734.4,0.482,0.209,17.76,slow,Fast
+475,https://www.theguardian.com/international,News,3072.0,1.21,0.431,111.61,fast,Fast
+476,https://www.washingtonpost.com/,News,4608.0,1.29,0.838,42.81,medium,slow
+477,https://www.indiatimes.com/,News,1331.2,1.43,0.145,35.67,fast,slow
+478,https://www.foxnews.com/,News,2867.2,1.21,0.195,21.48,fast,slow
+479,https://www.usatoday.com/,News,3379.2,2.2,0.131,73.97,fast,slow
+480,https://www.wsj.com/,News,2560.0,0.979,0.314,38.69,fast,slow
+481,https://www.nbcnews.com/,News,2662.4,1.97,0.21,32.0,fast,slow
+482,http://timesofindia.indiatimes.com/,News,4198.4,3.86,0.646,54.54,medium,slow
+483,https://abcnews.go.com/,News,48230.4,0.059,1.764,17.39,slow,slow
+484,https://sputniknews.com/,News,193945.6,0.255,0.527,47.87,slow,slow
+485,https://www.abc.net.au/news/,News,3584.0,1.23,0.051,1.81,fast,Fast
+486,https://www.independent.co.uk/,News,3686.4,3.43,0.38,253.16,fast,Fast
+487,https://www.cbc.ca/news/,News,11264.0,0.938,1.175,66.21,slow,Fast
+488,https://www.thesun.co.uk/news/,News,3993.6,1.89,0.421,20.16,fast,Fast
+489,https://time.com/,News,8396.8,2.24,0.137,163.15,fast,Fast
+490,https://www.latimes.com/,News,11264.0,0.938,0.334,20.57,fast,Fast
+491,https://www.mirror.co.uk/https://news.sky.com/,News,3993.6,1.89,0.87,8.48,medium,Fast
+492,https://www.vox.com/,News,1024.0,1.0,0.29,51.73,fast,medium
+493,https://www.smh.com.au/,News,7168.0,2.02,0.159,149.71,fast,medium
+494,https://www.scmp.com/,News,5222.4,0.97,0.361,12.31,fast,medium
+495,https://www.ctvnews.ca/,News,3686.4,2.62,0.379,37.85,fast,medium
+496,https://www.france24.com/en/,News,5836.8,4.95,0.125,1290.13,fast,slow
+497,https://news24online.com/,News,5529.6,3.5,0.265,0.0,fast,fast
+498,https://globalnews.ca/,News,3993.6,0.775,3.296,36.06,slow,Fast
+499,https://www.channelnewsasia.com/,News,13209.6,2.31,0.718,36.03,medium,Fast
+500,https://www.dkoding.in/,News,2252.8,0.537,1.431,26.12,slow,Fast
+501,https://www.thestar.com/,News,5529.6,3.5,0.302,5.16,fast,Slow
+502,https://www.washingtontimes.com/,News,3993.6,0.775,0.282,50.74,fast,Slow
+503,https://www.todayonline.com/,News,9216.0,3.99,0.83,214.31,medium,Slow
+504,https://www.telegraphindia.com/,News,3891.2,1.73,0.264,17.13,fast,Slow
+505,https://www.newsnow.co.uk/h/World+News,News,4812.8,3.42,1.129,242.4,slow,Slow
+506,https://www.csmonitor.com/,News,1126.4,1.5,0.18,17.44,fast,Slow
+507,https://www.easternherald.com/,News,2150.4,2.86,1.354,5.12,slow,Fast
+508,https://world.wng.org/,News,877772.8,0.786,0.431,1.46,slow,Fast
+509,https://newsblaze.com/,News,3174.4,2.81,0.275,23.4,fast,Fast
+510,https://www.neweurope.eu/,News,72192.0,0.107,0.389,27.69,medium,Medium
+511,https://www.watchdoguganda.com/,News,1126.4,1.47,0.049,10958.81,fast,Medium
+512,https://headlinecode.com/,News,8192.0,3.34,0.257,1.21,fast,Medium
+513,https://warritatafo.com/,News,225689.6,0.5,1.181,2.48,slow,Medium
+514,https://www.newsrust.com/,News,1024.0,0.0,0.199,209.66,fast,Medium
+515,https://globalpressjournal.com/,News,236236.8,0.465,0.366,84.7,slow,Medium
+516,https://newslanes.com/,News,72192.0,0.107,0.377,61.8,medium,Fast
+517,https://www.thenexthint.com/,News,1126.4,1.47,0.317,329.23,fast,Fast
+518,https://digitalive.world/,News,15667.2,0.097,0.289,129.69,fast,Fast
+519,https://www.newyorker.com/,News,1740.8,5.63,0.323,216.23,fast,Fast
+520,https://www.bbc.com/,News,385331.2,0.645,0.381,166.87,slow,Fast
+521,https://newszetu.com/,News,1024.0,0.0,0.454,134.26,fast,Fast
+522,https://weeklyworldnews.com/,News,275456.0,0.072,0.114,5.41,slow,Fast
+523,https://newsblenda.com/,News,23142.4,2.74,0.922,42.89,medium,medium
+524,https://www.chron.com/,News,1638.4,1.48,0.537,46.27,medium,medium
+525,https://www.news.com.au/,News,2150.4,1.22,1.413,102.55,slow,medium
+526,https://www.nzherald.co.nz/,News,1433.6,6.09,0.599,67.45,medium,Fast
+527,https://www.scmp.com/,News,2150.4,1.22,0.515,2.12,medium,Fast
+528,https://abcnews.go.com/,News,1433.6,6.09,0.254,64.06,fast,Fast
+529,https://www.theguardian.com/,News,1843.2,0.61,0.331,70.62,fast,Fast
+530,http://www.bbc.com/,News,956108.8,0.397,0.642,112.07,slow,medium
+531,https://www.huffpost.com/,News,2252.8,3.33,0.205,92.32,fast,medium
+532,https://www.bloomberg.com/,News,647782.4,0.713,0.207,48.41,slow,slow
+533,https://www.thedailybeast.com/,News,3276.8,4.66,0.945,90.31,medium,medium
+534,https://publictv.in/,News,5120.0,1.2,0.415,170.29,fast,medium
+535,http://www.neduwealth.com/,News,2252.8,1.96,0.583,38.8,medium,medium
+536,https://yerozo.com/,News,3174.4,1.39,0.166,200.28,fast,slow
+537,https://zemocity.com/,News,4096.0,0.849,1.124,12.05,slow,medium
+538,https://newsobservatory.com/,News,5120.0,2.26,0.305,1861.54,fast,medium
+539,https://lionnetnews.com/,News,2662.4,1.2,0.421,294.54,fast,medium
+540,https://richardsnewsonline.com/,News,1945.6,1.68,0.132,26.73,fast,medium
+541,https://balticword.eu/,News,3584.0,1.18,0.07,4.07,fast,medium
+542,https://www.thelifecart.com/,News,891904.0,0.821,0.408,95.7,slow,slow
+543,https://rightnowtimes.com/,News,6860.8,4.72,0.262,239.19,fast,medium
+544,https://amnews247.com/,News,18227.2,3.33,0.064,1060.83,fast,medium
+545,https://thedetrend.com/,Photography,37478.4,0.836,0.225,348.66,fast,medium
+546,https://breakingnewscentral.com/,News,1024.0,0.0,0.975,86.91,medium,Medium
+547,https://timespek.com/,News,1024.0,0.0,1.759,9.29,slow,Medium
+548,https://www.igorbnews.com/,News,142131.2,1.02,0.773,303.47,slow,Slow
+549,https://globalvisionuk.com/,News,1024.0,0.0,0.167,110.35,fast,Slow
+550,http://theweeklytide.com/,News,225792.0,7.41,0.556,153.68,slow,Medium
+551,http://www.justworldnews.com/,News,779161.6,0.919,0.706,49.3,slow,Medium
+552,https://www.avjnews.com/,News,1024.0,0.0,0.744,112.43,medium,Fast
+553,https://dainikviral.com/,News,1024.0,0.0,1.619,196.79,slow,Fast
+554,https://awkwardvibes.com/,News,145920.0,1.63,0.341,315.85,slow,Medium
+555,https://www.theworldwomennews.com/,News,5632.0,4.62,0.622,116.02,medium,Medium
+556,https://quicktrendnews.wordpress.com/,News,144384.0,0.58,0.571,480.13,slow,Medium
+557,https://thedailycanvas.com/,Travel,368947.2,1.0,0.137,6145.83,slow,Medium
+558,https://www.excite-news.site/,News,9523.2,4.5,1.284,278.21,slow,Medium
+559,https://www.worldpresslive.com/,News,1024.0,0.0,0.847,127.27,medium,Fast
+560,https://reporterfox.com/,News,1024.0,0.0,0.153,674.04,fast,Medium
+561,http://moef.gov.in,News,1024.0,3.77,1.038,436.58,slow,Medium
+562,http://goidirectory.nic.in/index.php,News,1024.0,0.0,2.742,276.79,slow,Medium
+563,https://pensionersportal.gov.in,News,497152.0,3.73,3.197,69.63,slow,Medium
+564,https://www.mea.gov.in,News,385331.2,0.488,0.812,131.26,slow,Fast
+565,https://www.finmin.nic.in,News,384102.4,0.759,1.472,57.97,slow,Medium
+566,http://socialjustice.nic.in,News,1228.8,1.36,2.608,119.14,slow,medium
+567,http://www.nmdfc.org,News,146022.4,0.797,0.128,173.69,slow,medium
+568,https://mib.gov.in,News,1024.0,0.0,2.27,340.04,slow,medium
+569,https://bombayhighcourt.nic.in,News,2867.2,1.66,0.419,175.52,fast,medium
+570,https://lawmin.gov.in,News,0.0,0.0,0.698,88.99,medium,medium
+571,https://mumbaipolice.co.in,Law and Government,22937.6,6.35,2.062,291.44,slow,Fast
+572,http://narcoticsindia.nic.in,Law and Government,1843.2,5.85,0.559,213.7,medium,medium
+573,https://www.upsc.gov.in,Law and Government,13004.8,4.05,0.428,267.54,fast,medium
+574,https://www.indianarmy.nic.in/home,Law and Government,3686.4,1.98,3.355,29.52,slow,medium
+575,http://www.ncbc.nic.in/Home.aspx,Law and Government,1024.0,0.0,0.342,246.37,fast,medium
+576,http://ifs.nic.in,Law and Government,1024.0,0.0,0.251,143.57,fast,medium
+577,https://ips.gov.in,Law and Government,15257.6,5.25,0.574,225.79,medium,medium
+578,https://www.mha.gov.in,Law and Government,0.0,0.0,0.449,155.65,fast,Fast
+579,https://www.nia.gov.in,Law and Government,1433.6,4.32,0.747,118.94,medium,medium
+580,https://crpf.gov.in,Law and Government,2355.2,5.18,0.434,208.98,fast,medium
+581,https://polisen.se/en/,Law and Government,519782.4,1.44,1.426,54.69,slow,Fast
+582,https://www.rcmp-grc.gc.ca,Law and Government,5529.6,3.27,1.162,128.82,slow,medium
+583,https://www.canada.ca/en/security-intelligence-service.html,Law and Government,0.0,0.0,0.271,470.86,fast,Fast
+584,https://www.fbi.gov,Law and Government,1024.0,0.0,6.389,4.29,slow,medium
+585,https://www.cia.gov/index.html,Law and Government,991232.0,7.27,0.628,60.17,slow,Fast
+586,https://www.interpol.int/en,Law and Government,2662.4,6.71,1.459,120.66,slow,medium
+587,http://government.ru/en/structure/,Law and Government,1024.0,0.0,0.815,98.15,medium,medium
+588,https://www.asis.gov.au,Law and Government,13619.2,1.29,0.291,99.32,fast,medium
+589,https://www.dea.gov,Law and Government,1024.0,0.0,0.051,9429.1,fast,Fast
+590,https://www.ice.gov,Law and Government,0.0,0.0,2.984,47.35,slow,Fast
+591,https://www.cbic.gov.in,Law and Government,463462.4,2.14,0.712,318.4,slow,medium
+592,https://www.prisonministryindia.org,Law and Government,1126.4,1.68,0.226,7085.32,fast,Fast
+593,https://www.bjs.gov,Law and Government,1945.6,0.944,0.159,5426.7,fast,Fast
+594,https://www.ncjrs.gov,Law and Government,1843.2,1.08,1.005,194.69,slow,medium
+595,https://www.justice.gov,Law and Government,1638.4,0.279,1.7,269.8,slow,medium
+596,https://doj.gov.in,Law and Government,2969.6,0.447,3.607,41.11,slow,Medium
+597,https://nij.ojp.gov,Law and Government,893849.6,1.93,1.265,30.97,slow,Fast
+598,https://www.indianembassyusa.gov.in,Law and Government,0.0,0.0,0.331,116.8,fast,Medium
+599,https://www.gst.gov.in,Law and Government,19968.0,1.46,0.763,92.98,medium,Fast
+600,https://www.incometaxindia.gov.in/Pages/default.aspx,Law and Government,8601.6,1.69,0.314,314.78,fast,Fast
+601,https://in.usembassy.gov,Law and Government,0.0,0.0,5.52,9.51,slow,Fast
+602,https://portal2.passportindia.gov.in/AppOnlineProject/welcomeLink,Law and Government,12492.8,5.5,3.627,5.74,slow,Fast
+603,https://www.dof.gov.ph,Law and Government,903168.0,1.5,0.776,42.92,slow,Medium
+604,https://www.gov.scot,Law and Government,1536.0,0.75,0.361,93.62,fast,Fast
+605,http://www.police-foundation.org.uk,Law and Government,15462.4,3.5,3.83,112.97,slow,Fast
+606,https://bja.ojp.gov,Law and Government,11059.2,7.94,1.57,136.18,slow,Fast
+607,https://www.ojp.gov,Law and Government,1740.8,1.0,0.731,26.06,medium,Fast
+608,https://nicic.gov,Law and Government,10649.6,4.65,1.096,315.9,slow,Fast
+609,https://ovc.ojp.gov,Law and Government,836608.0,1.05,1.162,62.61,slow,Fast
+610,https://www.atf.gov,Law and Government,2764.8,5.5,0.468,196.88,fast,Medium
+611,https://www.policefoundationindia.org,Law and Government,7475.2,3.94,1.389,29.58,slow,Fast
+612,https://cops.usdoj.gov,Law and Government,1228.8,4.5,1.173,98.44,slow,Fast
+613,https://www.bop.gov,Law and Government,15257.6,3.24,0.716,178.14,medium,Fast
+614,https://cabsec.gov.in/index.php,Law and Government,474316.8,0.252,0.561,76.11,slow,Medium
+615,http://ncdrc.nic.in,Law and Government,1536.0,0.787,2.148,127.72,slow,Medium
+616,https://www.legislation.gov.uk,Law and Government,3788.8,1.2,2.746,33.18,slow,medium
+617,https://www.indiacode.nic.in,Law and Government,2355.2,1.24,0.948,150.18,medium,medium
+618,https://legalaffairs.gov.in,Law and Government,2457.6,4.69,0.322,2589.06,fast,medium
+619,https://www.congress.gov,Law and Government,6348.8,1.9,4.875,342.06,slow,medium
+620,https://leginfo.legislature.ca.gov,Law and Government,5836.8,2.95,0.739,134.48,medium,Fast
+621,https://www.pmindia.gov.in/en/,Law and Government,1331.2,1.61,0.389,105.6,fast,Fast
+622,https://persmin.gov.in,Law and Government,3481.6,3.53,0.171,326.23,fast,Fast
+623,http://www.legislation.govt.nz,Law and Government,4096.0,4.61,0.194,0.0,fast,medium
+624,https://eci.gov.in,Law and Government,299417.6,0.69,3.859,168.66,slow,Fast
+625,https://www.fec.gov,Law and Government,63897.6,1.5,0.509,211.92,medium,medium
+626,https://rti.gov.in,Law and Government,84684.8,1.5,0.153,80.85,medium,Fast
+627,https://www.legislation.sa.gov.au/index.aspx,Law and Government,10035.2,4.5,0.391,388.83,fast,medium
+628,https://vote.gov,Law and Government,3481.6,2.68,0.957,228.49,medium,Fast
+629,https://www.eac.gov,Law and Government,374988.8,2.43,0.227,183.79,slow,medium
+630,https://www.electoralcommission.org.uk,Law and Government,10035.2,4.5,1.739,44.22,slow,medium
+631,https://loksabha.nic.in,Law and Government,3481.6,2.68,2.28,12.56,slow,medium
+632,https://www.lawcom.gov.uk,Law and Government,3686.4,0.054,1.15,132.24,slow,medium
+633,https://www.parliament.uk,Law and Government,1024.0,0.0,0.277,69.23,fast,Fast
+634,https://www.legis.state.pa.us,Law and Government,1024.0,0.0,1.599,0.01,slow,Fast
+635,https://www.legislation.wa.gov.au,Law and Government,2150.4,1.17,0.198,151.56,fast,Fast
+636,https://eparlib.nic.in,Law and Government,2764.8,6.16,0.597,101.57,medium,medium
+637,https://www.ipu.org,Law and Government,1331.2,3.44,4.341,69.56,slow,Fast
+638,https://www.legis.iowa.gov,Law and Government,807014.4,0.553,1.115,23.43,slow,medium
+639,https://www.army.mod.uk,Law and Government,2662.4,1.45,1.754,121.56,slow,medium
+640,http://www.stmaryskids.org/,Law and Government,890368.0,0.637,0.208,38.5,slow,medium
+641,http://www.kidswithfoodallergies.org/,Law and Government,8601.6,4.63,0.586,280.19,medium,medium
+642,http://www.malecare.org/,Law and Government,2560.0,0.701,0.5,658.27,fast,medium
+643,http://www.degosdisease.com/,Law and Government,85094.4,0.199,0.626,946.37,medium,medium
+644,http://www.freedomhealthrecovery.com/,Law and Government,2048.0,0.472,0.267,40.89,fast,medium
+645,http://www.freedomhealthrecovery.com/,Law and Government,184115.2,2.54,0.286,283.12,slow,Fast
+646,http://www.cancer.org/research/cancerfactsstatistics/index,Law and Government,2457.6,4.04,2.721,18.54,slow,Fast
+647,http://www.nymemory.org/,Law and Government,1024.0,0.0,0.37,74.51,fast,Medium
+648,http://www.yunkeracupuncture.com/,Law and Government,1740.8,2.23,2.414,161.22,slow,Medium
+649,http://www.curavet.com/,Law and Government,16588.8,2.38,0.318,71.86,fast,Fast
+650,http://www.wrlfmd.org/,Health and Fitness,3686.4,3.27,0.256,61.62,fast,Medium
+651,http://www.learnayurveda.com/research.html,Health and Fitness,7065.6,1.8,1.115,20.39,slow,Medium
+652,http://www.securethefuture.com/,Health and Fitness,672870.4,4.34,0.297,109.99,slow,Medium
+653,http://www.pocaan.org/,Health and Fitness,6348.8,3.72,1.563,36.02,slow,Medium
+654,http://www.idsociety.org/,Health and Fitness,10547.2,4.5,0.189,16.0,fast,Medium
+655,http://www.chikungunya.in/,Health and Fitness,12083.2,3.55,0.229,130.59,fast,Medium
+656,http://www.asthmastory.com/,Health and Fitness,3174.4,2.39,0.383,7.82,fast,Medium
+657,http://brokenjawtips.com/,Health and Fitness,1228.8,2.97,0.31,70.62,fast,Medium
+658,http://patient.info/,Health and Fitness,511180.8,1.08,0.989,14.84,slow,Fast
+659,https://www.mayoclinic.org/,Health and Fitness,443392.0,0.455,0.646,4.87,slow,Fast
+660,http://www.en.usz.ch/Pages/default.aspx,Health and Fitness,2048.0,0.366,0.481,398.9,fast,Fast
+661,https://www.nm.org/,Health and Fitness,1536.0,2.08,0.133,15.81,fast,Medium
+662,https://www.mountsinai.org/,Health and Fitness,1024.0,0.0,0.177,153.73,fast,Medium
+663,https://www.hamad.qa/EN/Pages/default.aspx,Health and Fitness,723456.0,1.01,0.384,22.8,slow,Fast
+664,https://www.saintfrancis.com/,Health and Fitness,5222.4,2.37,0.424,8.07,fast,Medium
+665,http://www.baylorhealth.com/Pages/Default.aspx,Health and Fitness,1024.0,0.0,0.578,70.76,medium,Fast
+666,https://www.luriechildrens.org/,Health and Fitness,1638.4,1.57,0.848,36.0,medium,medium
+667,http://www.rivalfitnessseattle.com/,Health and Fitness,568422.4,0.857,0.333,13.39,slow,Fast
+668,https://www.orangetheory.com/en-in/,Health and Fitness,1638.4,1.01,0.53,35.45,medium,medium
+669,https://charlestonkettlebellclub.com/,Health and Fitness,2867.2,1.39,0.28,1.6,fast,medium
+670,https://www.joyoushealth.com/,Health and Fitness,1638.4,0.051,0.773,0.36,medium,medium
+671,http://www.thegymla.com/,Health and Fitness,7065.6,2.8,0.812,238.65,medium,Fast
+672,https://republicbos.com/,Health and Fitness,8294.4,4.0,0.351,12.45,fast,medium
+673,https://www.ironbridgecrossfit.com/,Health and Fitness,1843.2,3.0,0.192,734.23,fast,medium
+674,https://crosstownfitness.com/,Health and Fitness,6041.6,1.29,0.149,148.21,fast,medium
+675,http://www.prevailboxing.com/,Health and Fitness,3788.8,2.84,0.394,33.81,fast,medium
+676,http://portlandteamfitness.com/,Health and Fitness,14745.6,0.108,0.558,17.34,medium,medium
+677,https://firebrandsports.com/,Health and Fitness,5222.4,2.53,0.874,162.59,medium,medium
+678,https://pulsepdx.net/,Health and Fitness,1331.2,2.08,1.163,17.67,slow,Fast
+679,https://www.push511.com/,Health and Fitness,2150.4,4.87,0.198,2.87,fast,medium
+680,https://www.fulcrumfitness.com/,Health and Fitness,3584.0,3.54,0.417,403.19,fast,medium
+681,https://www.castlehillfitness.com/,Health and Fitness,843673.6,0.576,1.353,17.79,slow,medium
+682,https://www.apollohospitals.com/,Health and Fitness,2764.8,2.33,1.008,63.25,slow,medium
+683,https://www.fortishealthcare.com/,Health and Fitness,21094.4,5.0,0.432,12.14,fast,Fast
+684,https://www.maxhealthcare.in/,Health and Fitness,5222.4,2.5,0.389,159.03,fast,medium
+685,https://www.narayanahealth.org/,Health and Fitness,19046.4,3.11,0.245,452.94,fast,medium
+686,https://sgrh.com/,Health and Fitness,8601.6,0.3,1.317,31.14,slow,medium
+687,https://www.ilbs.in/,Health and Fitness,2764.8,1.64,1.88,83.94,slow,medium
+688,https://www.medanta.org/,Health and Fitness,1843.2,2.38,0.352,57.67,fast,medium
+689,https://www.sankaranethralaya.org/,Health and Fitness,13824.0,1.71,0.261,277.57,fast,Fast
+690,https://carehospitals.com/,Health and Fitness,4608.0,2.18,0.551,57.15,medium,medium
+691,https://www.ilbs.in/,Health and Fitness,11366.4,4.37,6.691,25.18,slow,Slow
+692,https://www.medanta.org/,Health and Fitness,7372.8,5.5,0.282,2.25,fast,medium
+693,https://www.sankaranethralaya.org/,Health and Fitness,11468.8,7.23,0.132,444.26,fast,Fast
+694,https://carehospitals.com/,Health and Fitness,0.0,0.0,0.202,65.18,fast,medium
+695,https://safety.blr.com/,Health and Fitness,0.0,0.0,0.391,102.14,fast,Medium
+696,http://www.rphworld.com/,Health and Fitness,2048.0,1.22,0.878,138.19,medium,Medium
+697,http://medlibrary.org/,Health and Fitness,2457.6,4.31,0.194,3.21,fast,Medium
+698,http://cshp-nb.ca/,Health and Fitness,3481.6,5.92,0.17,411.82,fast,Fast
+699,http://www.oilofpisces.com/,Health and Fitness,3481.6,5.38,0.379,773.87,fast,Medium
+700,http://www.aafp.org/,Health and Fitness,0.0,0.0,0.284,16.64,fast,Medium
+701,http://www.oilofpisces.com/,Health and Fitness,2048.0,1.92,0.799,155.67,medium,Medium
+702,http://www.stmarymercy.org/,Health and Fitness,2457.6,3.89,2.099,54.79,slow,Medium
+703,http://aathermography.com/,Health and Fitness,3481.6,6.83,1.22,97.47,slow,Medium
+704,http://www.asma.org/,Health and Fitness,3481.6,4.74,0.379,773.87,fast,Fast
+705,http://ecps.md/,Health and Fitness,1331.2,2.02,1.135,88.36,slow,Medium
+706,http://www.poh.org/,Health and Fitness,31846.4,7.0,0.495,87.16,fast,Medium
+707,http://drpoulter.com/,Health and Fitness,147763.2,0.522,0.533,922.58,slow,Medium
+708,http://youngerfaces.com/,Health and Fitness,1024.0,0.0,1.941,62.89,slow,Fast
+709,http://www.renewman.com/,Health and Fitness,303206.4,0.338,0.846,996.06,slow,Medium
+710,http://www.badyogi.com/blog/,Health and Fitness,1843.2,1.97,2.146,118.69,slow,Medium
+711,https://yogawithadriene.com/blog/,Health and Fitness,303206.4,0.292,1.025,92.05,slow,Medium
+712,https://www.yogagirl.com/read,Health and Fitness,0.0,0.0,0.998,38.44,medium,Fast
+713,https://www.yogajournal.com/,Health and Fitness,53555.2,0.194,0.918,131.83,medium,Medium
+714,https://yogajanda.com/blog/,Health and Fitness,1126.4,2.99,0.448,239.67,fast,Medium
+715,https://blog.spiritvoyage.com/,Health and Fitness,1433.6,2.76,0.315,284.6,fast,medium
+716,https://www.yogabasics.com/practice/,Health and Fitness,1228.8,1.02,0.349,309.52,fast,Fast
+717,https://www.mindbodygreen.com/,Health and Fitness,4710.4,1.3,0.587,161.02,medium,medium
+718,https://www.yogiapproved.com/,Health and Fitness,2048.0,0.747,1.383,29.38,slow,medium
+719,https://blog.yogamatters.com/,Health and Fitness,1024.0,2.27,0.094,63.23,fast,Fast
+720,https://www.yogabycandace.com/blog,Health and Fitness,4300.8,0.913,0.702,40.38,medium,medium
+721,https://iloveveterinary.com/,Health and Fitness,2457.6,0.611,0.598,92.26,medium,medium
+722,https://www.viovet.co.uk/blog,Health and Fitness,4812.8,3.1,0.414,106.2,fast,medium
+723,https://www.vettimes.co.uk/,Health and Fitness,1740.8,1.2,0.267,71.51,fast,medium
+724,https://www.reddit.com/r/AskVet/,Health and Fitness,2560.0,2.01,4.317,18.36,slow,medium
+725,https://www.avma.org/blog,Health and Fitness,302694.4,0.52,1.292,125.17,slow,medium
+726,https://www.petpoisonhelpline.com/blog/,Health and Fitness,1331.2,2.37,2.079,23.02,slow,medium
+727,https://medicalfuturist.com/,Health and Fitness,951398.4,0.338,0.347,214.51,slow,Fast
+728,https://www.webmd.com/,Health and Fitness,6553.6,2.83,0.875,61.07,medium,medium
+729,https://www.everydayhealth.com/,Health and Fitness,2867.2,1.2,1.775,118.44,slow,medium
+730,https://www.health.com/,Health and Fitness,34099.2,2.7,0.989,149.89,medium,medium
+731,https://www.medscape.com/,Health and Fitness,660275.2,1.31,0.405,233.91,slow,medium
+732,https://www.healthline.com/,Health and Fitness,1228.8,1.05,0.275,58.32,fast,medium
+733,https://www.mercola.com/,Health and Fitness,10342.4,7.03,3.062,29.39,slow,Fast
